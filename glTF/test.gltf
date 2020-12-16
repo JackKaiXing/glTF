@@ -1,7 +1,7 @@
 {
   "asset": {
     "version": "2.0",
-    "generator": "babylonJS"
+    "generator": "we use babylon exporter"
   },
   "extensionsUsed": [
     "KHR_lights_punctual",
